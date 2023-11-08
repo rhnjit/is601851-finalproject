@@ -1,8 +1,8 @@
-# is218003-final
+# IS601 Online
 
-# Class Sign-In Sheet
+# Meeting Sign-In Sheet
 
-Each student should put an 'X' under their name on the days they attend class.
+Each student should put an 'X' under their name on the days they have meetings.
 
 ### November 2023
 
