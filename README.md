@@ -30,9 +30,7 @@ Each student should put an 'X' under their name on the days they have meetings.
 
 | Strengths                                              | Weaknesses                                             |
 |--------------------------------------------------------|--------------------------------------------------------|
-|- Fresh, affordable and tastey sandwiches               | - No online or global presence                         |
-- Conveniently located in downtown business district      - Low brand popularity                                 
-- Supports local community                                - Small dine-in eating space                           
+|- Fresh, affordable and tastey sandwiches<br />- Conveniently located in downtown business district<br />- Supports local community | - No online or global presence<br />- Low brand popularity<br />- Small dine-in eating space |                                                    
 
 | :Opportunities                                      | **Threats**                                            |
 |--------------------------------------------------------|--------------------------------------------------------|
